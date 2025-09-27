@@ -2,5 +2,15 @@ The developed program is used in the conveyor industry to reduce the number of d
 Methods that were used in the program: ORB, BFMatcher, RANSAC.
 To run the program, you need to insert a folder with images of a specific part into the program folder, and also change the name of the folder in the program itself to the name of the folder you are using.
 
+As a result of the program's operation, an "output" folder is created in the project repository, containing a report, snapshots of defects, and deviations from the norm according to GOST.
+
+the block diagram of the program looks like this:
+<img width="593" height="312" alt="{0118B48B-68DF-464F-AFF5-0F213793A413}" src="https://github.com/user-attachments/assets/af274eee-f3a2-4921-8482-1b19f5f2ac7f" />
+
+
+Below is a variant of the part scanner, for which the program was developed.
+<img width="618" height="412" alt="image" src="https://github.com/user-attachments/assets/8cd31f12-b303-40ef-a176-a02eb0886048" />
+
+
 - Written in C++
 - Uses the C++11/14/17 standard
