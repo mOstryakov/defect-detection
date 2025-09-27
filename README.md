@@ -5,8 +5,7 @@ To run the program, you need to insert a folder with images of a specific part i
 As a result of the program's operation, an "output" folder is created in the project repository, containing a report, snapshots of defects, and deviations from the norm according to GOST.
 
 the block diagram of the program looks like this:
-<img width="593" height="312" alt="{0118B48B-68DF-464F-AFF5-0F213793A413}" src="https://github.com/user-attachments/assets/af274eee-f3a2-4921-8482-1b19f5f2ac7f" />
-
+<img width="595" height="312" alt="{B34EC3A7-D5A4-491E-936F-79288505B87A}" src="https://github.com/user-attachments/assets/525e4831-df4d-4974-adfb-1abded8146fd" />
 
 Below is a variant of the part scanner, for which the program was developed.
 <img width="618" height="412" alt="image" src="https://github.com/user-attachments/assets/8cd31f12-b303-40ef-a176-a02eb0886048" />
